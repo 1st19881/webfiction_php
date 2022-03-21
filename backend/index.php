@@ -95,7 +95,7 @@ include('condb.php');
 
 <script>
 $(function() {
-    $(".datatable").DataTable();
+    $("#datatable").DataTable();
     // $('#example2').DataTable({
     //   "paging": true,
     //   "lengthChange": false,

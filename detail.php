@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <title>ระบบXXXX</title>
 </head>
-<body>
+<body oncontextmenu="return false;">
     
 <?php 
 include("jumbotron.php"); 

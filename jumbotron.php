@@ -8,8 +8,8 @@
                  รวมนิยายไทย หลากเรื่องหลายแนว
                 </p>
                <div class="text-center">
-               <a href="#" class="btn btn-primary">ดูเพิ่มเติม</a>
-               <a href="#" class="btn btn-success">สมัครสมาชิก</a>
+               <a href="#" class="btn "style="border-radius:7px;background-color:#ff5853;color:white;"><span>ดูเพิ่มเติม</span></a>
+               <a href="#" class="btn "style="border-radius:7px;background-color:#ff5853;color:white;"><span>สมัครสมาชิก</span></a>
                </div>
             </div>
         </div>
